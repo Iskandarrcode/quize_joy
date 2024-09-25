@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
     return const GetMaterialApp(
       debugShowCheckedModeBanner: false,
       home: SplashScreen(),
+      // commit testing
     );
   }
 }
