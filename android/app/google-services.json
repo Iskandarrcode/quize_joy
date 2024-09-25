@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519409556384",
+    "project_id": "question-app-f507c",
+    "storage_bucket": "question-app-f507c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519409556384:android:3a6898af258b86b767e2c5",
+        "android_client_info": {
+          "package_name": "com.example.quize_joy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXohqru91tmzVN8Fa5xxmvbKNvm60pB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+name: quize_joy
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  zoom_tap_animation: ^1.1.0
+  lottie: ^3.1.2
+  firebase_core: ^3.5.0
+  cloud_firestore: ^5.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/your_icon.png
+    - assets/images/
+    - assets/icons/
+    - assets/lotties/error.json
+    - assets/lotties/tick.json
+    - assets/lotties/congrats.json
+    - assets/lotties/prize.json
